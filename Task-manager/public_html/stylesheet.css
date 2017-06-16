@@ -30,10 +30,9 @@ body {
 }
 #log-in {
     font-family: cursive;
-    font-size: 10px;
+    font-size: 15px;
     color: #fff;
 }
-
 .navbar-header {
     font-family: cursive;
     font-size: 20px;
@@ -43,4 +42,8 @@ body {
 #text{
     margin-top: 100px;
     color: #fff;
+}
+.jumbotron{
+    opacity: 0.5;
+    margin-top: 75px;
 }
