@@ -11,10 +11,10 @@ body {
 }
 .navigation li {
     font-size: 18px;
+    font-family: cursive;
     display: inline-block;
     padding-left: 20px;
     padding-right: 10px;
-    font-family: monospace;
 }   
 .navigation a {
     text-decoration: none;
@@ -22,19 +22,25 @@ body {
 }
 .navigation a:hover {
     text-decoration: none;
+    font-family: cursive;
     color: #761c19;
     border: 3px solid #761c19;
     border-radius: 50px;
     padding: 5px 5px 5px 5px;
 }
 #log-in {
+    font-family: cursive;
+    font-size: 10px;
     color: #fff;
 }
 
 .navbar-header {
-    font-family: speedbrush;
-    font-size: 25px;
+    font-family: cursive;
+    font-size: 20px;
     color: #fff;
-    margin-top: 3px;
-    margin-left: 80px;
+    margin-left: 50px;
+}
+#text{
+    margin-top: 100px;
+    color: #fff;
 }
